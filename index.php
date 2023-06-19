@@ -84,5 +84,5 @@ if($wynik=$con->query($q)) {
 else
 {echo $con->errno . " " . $con->error;}
 //echo '<input type="number" name="money">';
-//echo '<input type="submit"></form>'
+//echo '<input type="submit"></form>'dd
 ?>
